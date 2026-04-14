@@ -31,8 +31,6 @@ pip install opencv-python mediapipe
 
 python hand_gesture_control.py
 
-## 📷 Demo
-(Add screenshots or demo GIF here)
 
 ## 👤 Author
 Serkan Işık
